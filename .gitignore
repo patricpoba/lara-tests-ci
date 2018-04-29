@@ -1,0 +1,13 @@
+/lara-tests/node_modules
+/lara-tests/public/hot
+/lara-tests/public/storage
+/lara-tests/storage/*.key
+/lara-tests/vendor
+/lara-tests/.idea
+/lara-tests/.vagrant
+/lara-tests/Homestead.json
+/lara-tests/Homestead.yaml
+/lara-tests/npm-debug.log
+/lara-tests/yarn-error.log
+/lara-tests/.env
+/raw-php/vendor
