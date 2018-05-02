@@ -26,7 +26,7 @@ class UserTest extends TestCase
     {
     	Hash::shouldReceive('make')->once()->andReturn('hashed');
 
-    	$password = $this->user->password = 'mt_rand';
+    	$password = $this->user->password = 'secret';
     	
         $this->assertSame('hashed', $this->user->password); 
     }
