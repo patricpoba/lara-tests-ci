@@ -41,4 +41,10 @@ class PracticeModel extends Model
     	return $this->hasMany('App\User');
     }
 
+
+    public function getName()
+    {
+        return 'Patric Poba';
+    }
+
 }

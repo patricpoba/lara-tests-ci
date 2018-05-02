@@ -46,4 +46,21 @@ class PracticeTest extends TestCase
 	// 	$this->assertHasMany('users','PracticeModel');
 	// }
 
+	// public function testNativeMocks()
+	// {
+	// 	$mock = $this->getMock('SomeClass');
+	// 	$mock->expects($this->once())
+	// 		->method('getName')
+	// 		->will($this->returnValue('John Doe'));
+	// }
+
+	// public function testMockery()
+	// {
+	// 	$mock = \Mockery::mock('App\PracticeModel');
+	// 	$mock->shouldReceive('getName')
+	// 		->once()
+	// 		->andReturn('John Doe');
+	// }
+	
+	
 }
