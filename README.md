@@ -1,3 +1,9 @@
+[![Build Status](https://travis-ci.org/patricpoba/lara-tests-ci.svg?branch=master)](https://travis-ci.org/patricpoba/lara-tests-ci) 
+[![Coverage Status](https://coveralls.io/repos/github/patricpoba/lara-tests-ci/badge.svg?branch=master)](https://coveralls.io/github/patricpoba/lara-tests-ci?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/patricpoba/lara-tests-ci/v/stable)](https://packagist.org/packages/patricpoba/lara-tests-ci)
+[![Total Downloads](https://poser.pugx.org/patricpoba/lara-tests-ci/downloads)](https://packagist.org/packages/patricpoba/lara-tests-ci)
+[![License](https://poser.pugx.org/patricpoba/lara-tests-ci/license)](https://packagist.org/packages/patricpoba/lara-tests-ci)
+
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
