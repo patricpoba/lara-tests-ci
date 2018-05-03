@@ -16,7 +16,7 @@ class PracticeModel extends Model
     public function meta()
     {
     	// return '"'. $this->title . '" was written by '. $this->author .'.';
-    	return sprintf('"%s" was written by %s.', $this->title, $this->author);
+    	return sprintf('"%s" was authored by %s.', $this->title, $this->author);
     }
 
     public function attributes()
